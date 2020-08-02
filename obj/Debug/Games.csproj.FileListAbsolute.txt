@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\Assigenment Inheritance\Games\bin\Debug\Games.exe.config
+D:\DotNetConsoleApps\Assigenment Inheritance\Games\bin\Debug\Games.exe
+D:\DotNetConsoleApps\Assigenment Inheritance\Games\bin\Debug\Games.pdb
+D:\DotNetConsoleApps\Assigenment Inheritance\Games\obj\Debug\Games.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\Assigenment Inheritance\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\Assigenment Inheritance\Games\obj\Debug\Games.exe
+D:\DotNetConsoleApps\Assigenment Inheritance\Games\obj\Debug\Games.pdb
